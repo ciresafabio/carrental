@@ -24,6 +24,6 @@ npm run dev
 
 2. Start the backend server:
 
-cd backend
-mvn clean package
-./mvnw spring-boot:run
+- cd backend
+- mvn clean package
+- ./mvnw spring-boot:run
